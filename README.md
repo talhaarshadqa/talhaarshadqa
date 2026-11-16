@@ -8,6 +8,7 @@
 - 🔭 Currently building **[dupehunter](https://github.com/talhaarshadqa/dupehunter)**, a fast duplicate-file finder
 - 🌱 Learning: async Python, FastAPI, data engineering
 - 💬 Ask me about: Python, automation, CLI tools, web scraping
+- 📫 Reach me: **talhaarshad930@gmail.com**
 
 ### 🛠️ Tech stack
 
