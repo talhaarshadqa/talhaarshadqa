@@ -7,7 +7,7 @@
 
 - 🔭 Currently building **[dupehunter](https://github.com/talhaarshadqa/dupehunter)**, a fast duplicate-file finder
 - 🌱 Learning: async Python, FastAPI, data engineering
-- 💬 Ask me about: Python, automation, CLI tools, web scraping
+- 💬 Ask me about: Python, automation, CLI tools, data analysis
 - 📫 Reach me: **talhaarshad930@gmail.com**
 
 ### 🛠️ Tech stack
@@ -15,6 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -27,6 +28,7 @@
 | Project | Description |
 |---|---|
 | [dupehunter](https://github.com/talhaarshadqa/dupehunter) | Duplicate-file finder with a three-stage hashing pipeline. Zero dependencies, tested in CI. |
+| [spendlens](https://github.com/talhaarshadqa/spendlens) | Bank-statement analyzer: categories, subscription finder, anomaly detection and HTML charts. pandas + matplotlib. |
 
 ### 📊 GitHub stats
 
