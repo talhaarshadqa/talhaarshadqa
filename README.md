@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Currently building **[dupehunter](https://github.com/talhaarshadqa/dupehunter)**, a fast duplicate-file finder
-- 🌱 Learning: async Python, FastAPI, data engineering
+- 🌱 Learning: async Python, system design, data engineering
 - 💬 Ask me about: Python, automation, CLI tools, data analysis
 - 📫 Reach me: **talhaarshad930@gmail.com**
 
@@ -29,6 +29,7 @@
 |---|---|
 | [dupehunter](https://github.com/talhaarshadqa/dupehunter) | Duplicate-file finder with a three-stage hashing pipeline. Zero dependencies, tested in CI. |
 | [spendlens](https://github.com/talhaarshadqa/spendlens) | Bank-statement analyzer: categories, subscription finder, anomaly detection and HTML charts. pandas + matplotlib. |
+| [linkshort](https://github.com/talhaarshadqa/linkshort) | URL-shortener REST API with custom aliases, expiring links and click analytics. FastAPI + SQLite + Docker. |
 
 ### 📊 GitHub stats
 
