@@ -38,6 +38,9 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaarshadqa&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaarshadqa&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhaarshadqa&theme=tokyonight" />
+</p>
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhaarshadqa&theme=tokyonight" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhaarshadqa&theme=tokyonight" />
 </p>
